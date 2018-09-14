@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 497fc23ddddcf0d43ad04f578d852194
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cube_2_2: {fileID: 1460445094783830, guid: f834975d132371843a864d25223b4bcc, type: 2}
+  - cube_1_2: {fileID: 1795888896072416, guid: 0daf01c8cd26e7e4196f1ef3f8d7c493, type: 2}
+  - cube_1_1: {fileID: 1391110150782714, guid: 94aad6742bf95b54eba51f527126fbea, type: 2}
+  - biteBlock: {fileID: 1197642260033264, guid: d44d12866777ebc4493c2960610c118b,
+      type: 2}
+  - needleBlock: {fileID: 1734839030615854, guid: c79c2c31a341574459d7113db6d083f1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
